@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="Style Library" Url="Style Library" Path="Style Library">
+		<File Path="bootstrap\css\bootstrap.css" Url="bootstrap/css/bootstrap.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\css\bootstrap.min.css" Url="bootstrap/css/bootstrap.min.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\js\bootstrap.js" Url="bootstrap/js/bootstrap.js" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\js\bootstrap.min.js" Url="bootstrap/js/bootstrap.min.js" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\js\jquery-1.10.2.js" Url="bootstrap/js/jquery-1.10.2.js" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\js\bootstrap-custom.js" Url="bootstrap/js/bootstrap-custom.js" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\css\bootstrap-responsive.css" Url="bootstrap/css/bootstrap-responsive.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\css\bootstrap-responsive.min.css" Url="bootstrap/css/bootstrap-responsive.min.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\img\glyphicons-halflings-white.png" Url="bootstrap/img/glyphicons-halflings-white.png" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\img\glyphicons-halflings.png" Url="bootstrap/img/glyphicons-halflings.png" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		<File Path="bootstrap\css\bootstrap-custom.css" Url="bootstrap/css/bootstrap-custom.css" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+	</Module>
+</Elements>

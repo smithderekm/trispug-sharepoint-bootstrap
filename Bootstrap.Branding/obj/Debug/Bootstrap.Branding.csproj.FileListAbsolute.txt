@@ -1,0 +1,6 @@
+C:\workspaces\sp2010bootstrap\Bootstrap.Branding\Bootstrap.Branding\bin\Debug\Bootstrap.Branding.dll
+C:\workspaces\sp2010bootstrap\Bootstrap.Branding\Bootstrap.Branding\bin\Debug\Bootstrap.Branding.pdb
+C:\workspaces\sp2010bootstrap\Bootstrap.Branding\Bootstrap.Branding\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\workspaces\sp2010bootstrap\Bootstrap.Branding\Bootstrap.Branding\obj\Debug\ResolveAssemblyReference.cache
+C:\workspaces\sp2010bootstrap\Bootstrap.Branding\Bootstrap.Branding\obj\Debug\Bootstrap.Branding.dll
+C:\workspaces\sp2010bootstrap\Bootstrap.Branding\Bootstrap.Branding\obj\Debug\Bootstrap.Branding.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="_catalogs" Url="_catalogs/masterpage">
+		<!-- Master Page-->
+		<File Path="_catalogs\masterpage\BootstrapDemo.Master" Url="BootstrapDemo.Master" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" />
+		
+		<!--Page Layouts-->
+		<File Path="_catalogs\masterpage\PL_Home.aspx" Url="PL_Home.aspx" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+			<Property Name="Title" Value="PL_Home"/>
+		</File>
+	</Module>
+</Elements>
